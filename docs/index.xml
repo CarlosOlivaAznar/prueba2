@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prueba</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Prueba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Sep 2023 19:56:08 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segundo_post</title>
+      <link>https://example.org/posts/segundo_post/</link>
+      <pubDate>Fri, 22 Sep 2023 19:56:08 +0200</pubDate>
+      
+      <guid>https://example.org/posts/segundo_post/</guid>
+      <description>SEGUNDO POST Magna incididunt est quis fugiat sint id in id qui Lorem exercitation duis eiusmod. Fugiat velit eiusmod magna velit aliquip officia ea ex dolor nulla magna. Dolor deserunt deserunt ex tempor velit fugiat. Reprehenderit culpa labore aliqua adipisicing laboris cillum commodo aute ipsum sunt deserunt tempor.
+Nisi labore veniam eiusmod quis esse nostrud cillum officia sunt ex ad pariatur. Ea magna minim labore in elit nostrud. Occaecat ut adipisicing velit duis dolore sint fugiat non aute irure ea aute dolore.</description>
+    </item>
+    
+    <item>
+      <title>Primer_post</title>
+      <link>https://example.org/posts/primer_post/</link>
+      <pubDate>Fri, 22 Sep 2023 19:55:59 +0200</pubDate>
+      
+      <guid>https://example.org/posts/primer_post/</guid>
+      <description>PRIMER POST Aute eu reprehenderit nisi ullamco tempor consequat eiusmod voluptate. Aliqua aliquip id veniam in cupidatat eiusmod nisi. Do laboris est nostrud tempor incididunt qui proident. Fugiat laboris mollit consectetur cillum irure aute. Magna dolor et voluptate elit voluptate mollit aute.
+Dolor laborum voluptate quis labore ullamco. Est amet do in amet reprehenderit deserunt. Anim officia enim dolor do incididunt Lorem fugiat.
+Sit duis deserunt deserunt irure quis ad proident tempor.</description>
+    </item>
+    
+    <item>
+      <title>Main</title>
+      <link>https://example.org/main/</link>
+      <pubDate>Fri, 22 Sep 2023 19:39:22 +0200</pubDate>
+      
+      <guid>https://example.org/main/</guid>
+      <description>SITIO DE PRUEBA Consectetur deserunt Lorem est esse reprehenderit aliquip occaecat deserunt tempor. Exercitation ut sit dolore nostrud sint laborum sunt officia laboris culpa laboris culpa mollit officia. Esse nisi occaecat sint ipsum cillum dolor tempor ad fugiat. Voluptate tempor exercitation non deserunt dolore aliqua sunt nostrud aute nostrud culpa pariatur velit. Ex mollit enim Lorem minim magna veniam commodo minim sit velit do duis cillum voluptate. Laboris ipsum ea amet aliquip dolor proident et eu nostrud minim occaecat occaecat ullamco.</description>
+    </item>
+    
+  </channel>
+</rss>
